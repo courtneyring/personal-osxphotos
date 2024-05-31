@@ -1,0 +1,1 @@
+osxphotos query --query-function find_unnamed_faces.py::unnamed_faces --add-to-album "Unnamed Faces 02/22" --quiet --from-date=2022-02-01 --to-date=2024-04-30
